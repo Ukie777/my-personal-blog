@@ -1,70 +1,19 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+網站概述：
+這是一個專為周杰倫的音樂愛好者打造的網站，提供周杰倫的經典歌曲賞析。網站內有精心挑選的幾首代表性歌曲，並為每首歌曲提供了多元的播放方式，讓使用者能夠輕鬆地欣賞、分享和深入了解周杰倫的音樂。
 
-## Available Scripts
+網站功能：
+1. Spotify連結：每首歌曲下方都有一個按鈕，點擊後可直接跳轉到Spotify，讓使用者可以在平台上聽到周杰倫的音樂，並可根據自己的需要創建歌單或收藏歌曲。
+2. MP3播放或下載：除了Spotify連結外，網站還提供了每首歌曲的MP3檔案超連結，使用者可以直接在線聆聽或下載歌曲。這樣的設計方便那些不使用Spotify的用戶，並能讓音樂隨時隨地播放。
+3. 歌曲賞析內容：每首歌曲都附有簡單的歌曲賞析，介紹該歌曲的背景、創作故事、歌詞意涵等，讓使用者在聽歌的同時能夠更深入地理解周杰倫的音樂和創作風格。
 
-In the project directory, you can run:
+特色亮點：
+多元播放方式：提供Spotify和MP3的雙重播放選項，讓不同需求的使用者都能輕鬆享受音樂。
+簡單易用的介面：網站設計直觀，按鈕清晰易見，使用者不需要經過繁瑣的操作就能找到自己想聽的歌曲並立刻播放。
+音樂賞析內容：每首歌的介紹不僅能幫助使用者理解歌曲本身，還能提升音樂欣賞的深度。
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+適用對象：
+周杰倫的粉絲
+喜歡華語流行音樂的聽眾
+想了解更多關於周杰倫歌曲創作背景和歌詞深意的音樂愛好者
+這個網站的設計讓使用者不僅可以聆聽音樂，還能深入了解歌曲的背景和意義，提升音樂欣賞的體驗。如果你有更多的功能或設計細節，歡迎分享，我可以進一步幫助你豐富這個網站的介紹！
